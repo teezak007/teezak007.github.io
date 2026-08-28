@@ -1,1 +1,2 @@
-teezak007.github.io
+igriyamagdy-ads
+app-ads.txt hosting for MagdyRunner (Android game)
