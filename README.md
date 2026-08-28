@@ -1,1 +1,2 @@
-# teezak007.github.io
+
+google.com, pub-9434966535060644, DIRECT, f08c47fec0942fa0
